@@ -41,16 +41,16 @@ Après l'identification, vous avez la possibilité d'ajouter d'autres Utilisateu
 
 ### Quelques résultats
 - **Authentification**
-![Authentification](img/Authentification.png){width=50%}
+![Authentification](img/Authentification.png)
 
 - **Menu Principal**
-![Menu Principal](img/Menu_p.png){width=50%}
+![Menu Principal](img/Menu_p.png)
 
 - **Gestion des utilisateurs**
-![Gestion des utilisateurs](img/Gestion_util.png){width=50%}
+![Gestion des utilisateurs](img/Gestion_util.png)
 
 - **Gestion des Produits**
-![Gestion des Produits](img/Gestion_prod.png){width=50%}
+![Gestion des Produits](img/Gestion_prod.png)
 
 - **Gestion des Caissiers**
-![Gestion des Caissiers](img/Gestion_caisse.png){width=50%}
+![Gestion des Caissiers](img/Gestion_caisse.png)
