@@ -27,10 +27,11 @@ L'interface d'authentification permet d'accéder aux autres fonctionnalités de 
 
 ### Création de l'utilisateur par défaut
 
-Allez à la base de données et créez un utilisateur avec la syntaxe suivante :
+Allez à la base de données et créer un utilisateur avec la syntaxe suivante :
 
 ```sql
-INSERT INTO `utilisateur` (`id`, `id_user`, `username`, `password`, `fonction`) VALUES (1, 25, 'lamarana', 'diallo', 'directeur');
+INSERT INTO `utilisateur` (`id`, `id_user`, `username`, `password`, `fonction`)
+VALUES (1, 25, 'lamarana', 'diallo', 'directeur');
 ```
 
 Identifiants par défaut :
